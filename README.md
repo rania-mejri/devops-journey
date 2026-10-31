@@ -1,2 +1,9 @@
-# devops-journey
-My learning journey to become a DevOps Engineer: Linux, Docker, CI/CD, Azure, Terraform, Kubernetes
+# DevOps Journey
+
+## Semaine 1 — Linux : commandes de base
+
+| Commande | À quoi elle sert |
+| --- | --- |
+| `pwd` | |
+| `ls` | |
+| `cat` | |
